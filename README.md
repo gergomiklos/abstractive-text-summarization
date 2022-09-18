@@ -1,2 +1,2 @@
 # Abstractive-Text-Summarization
-University NLP project based on an LSTM Seq2seg model with Attention Mechanism
+A 2021 University NLP project based on a PyTorch LSTM Seq2Seq model with Attention Mechanism
